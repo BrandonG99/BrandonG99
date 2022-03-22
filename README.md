@@ -1,0 +1,6 @@
+- 👋 Hey there, I’m Brandon Guard 😎
+- 🖥 I’m a Self-Taught Front-End Software Engineer from the UK 🇬🇧
+- 🌱 I’m currently learning React 
+- 🐦 I'm active on Twitter, follow me! @BrandonGuard99
+- ☀️ Huge fan of positive vibes and cheering others on! 👌
+- 📫 Get in touch with me: brandonlguard@gmail.com
