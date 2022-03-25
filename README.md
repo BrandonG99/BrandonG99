@@ -4,8 +4,6 @@
 
 ## 😎 **About Me**
 
----
-
 ## 👨🏻‍💻 I’m a Self-Taught **Front-End Software Engineer** from the **UK** 🇬🇧
 
 ## ☀️ Huge fan of **positive energy** and **helping others** reach their goals! 👌
@@ -15,8 +13,6 @@
 ## 🐦 I'm active on Twitter, follow me! [@BrandonGuard99](https://twitter.com/BrandonGuard99)
 
 ## 📫 Get in touch with me: brandonlguard@gmail.com
-
----
 
 ## 🛠 Tech Stack
 
