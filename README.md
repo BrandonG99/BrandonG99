@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I’m Brandon Guard 👋
+# Hey, my name is Brandon 👋
 
 I’m a **Front-End Developer** with a passion for all things tech 👨🏻‍💻
 
