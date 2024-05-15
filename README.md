@@ -4,7 +4,7 @@
 
 I’m a **Front-End Developer** with a passion for all things tech 👨🏻‍💻
 
-I work with HTML, CSS, JavaScript, React, Tailwind CSS & TypeScript
+I work with **HTML**, **CSS**, **JavaScript**, **React**, **Tailwind CSS** & **TypeScript**
 
 Get in touch: brandonlguard@gmail.com
 
