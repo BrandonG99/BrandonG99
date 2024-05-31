@@ -2,7 +2,7 @@
 
 # Hey, my name's Brandon 👋
 
-A **Front-End Developer** with a passion for all things tech 👨🏻‍💻
+I'm a **Front-End Developer** with a passion for all things tech 👨🏻‍💻
 
 I work with **HTML**, **CSS**, **JavaScript**, **React**, **Tailwind CSS** & **TypeScript**
 
