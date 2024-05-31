@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hey, my name's Brandon 👋
+# Hey, my name's Brandon 👨🏻‍💻
 
-I'm a **Front-End Developer** with a passion for all things tech 👨🏻‍💻
+I'm a **Front-End Developer** with a passion for all things tech.
 
 I work with **HTML**, **CSS**, **JavaScript**, **React**, **Tailwind CSS** & **TypeScript**
 
